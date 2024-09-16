@@ -1,0 +1,6 @@
+===== Zimbabwe Airspace =====
+
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| FVHF | Harare | [[airspace:fvhf:home|FVHF]] | -       | - |
+
+{{page>fv-footer#Zimbabwe}}

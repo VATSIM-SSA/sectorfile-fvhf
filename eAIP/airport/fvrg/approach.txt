@@ -1,0 +1,51 @@
+===== FVRG Approach =====
+
+==== Arrivals Procedures ====
+
+  * FVRG does not have any published arrivals. Pilots should be advised to level at 7000 ft for the ILS to runway 05 (preferred landing runway).
+
+
+=== Approach Procedures ===
+
+^ Rwy   ^ Approach          ^ Frequency     ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
+| 05    | ILS           | 110.30 ISB    | 052º | 3.00º | HYDRO | 7000 ft | - | 
+| :::   | VOR DME       | -             | 052º | 3.00º | 10 DME VHA | 6000 ft | - |
+| :::   | NDB           | -             | 052º | 2.39º | HYDRO | 7000 ft | - |
+| 23    | VOR DME       | -             | 232º | 2.87º | - | 7000 ft | - |
+
+
+==== Holds ====
+
+^ Name  ^ STAR  ^ Altitude          ^ Speed (IAS)   ^ Inbound CRS ^ Turn ^ Leg Time ^ Remarks ^
+| KU | -     | -  | 230 KT        | 214º | Left | 1 min | - |
+| NZ | -     | -  | 230 KT        | 116º | Right | 1 min | - |
+| BZ | -     | -  | 230 KT        | 293º | Right | 1 min | - |
+| OL | -     | -  | 230 KT        | 052º | Right | 1 min | - |
+
+
+==== Missed Approach Procedures ====
+
+^ Rwy   ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 05    | ILS               | Climb on Heading 052º to 7000 ft, then turn RIGHT to OL NDB and hold. | OL NDB | - |
+| :::   | VOR DME           | Climb on Heading 052º to 7000 ft and proceed direct to VHA VOR. | VHA VOR | - |
+| :::   | NDB               | Climb on Heading 052º to 7000 ft | - | - |
+| 23    | VOR DME           | Climb on Heading 232º to 7000 ft and proceed direct to VHA VOR. | VHA VOR | - |
+
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| OL    | 0 nm  | 25 nm | 089º | 029º | 7000 ft | - |
+| :::   | :::   | :::   | 029º | 089º | 7000 ft | - |
+
+
+==== Diversions ====
+
+^ ICAO ^ Name                                       ^ Distance  ^ Longest Rwy ^ Remarks ^ 
+| FVJN | J.M. Nkomo (Bulawayo, Zimbabwe)     | 192 nm     | 2588 m | - |
+| FLKK | Kenneth Kaunda (Lusaka, Zambia)               | 220 nm    | 3962 m | - |
+| FWCL | Chileka Intl (Blantyre, Malawi)  | 271 nm    | 2325 m | - |
+| FVFA | Victorial Falls (Victorial Falls, Zimbabwe)     | 309 nm    | 4000 m | - |
+
+
+{{page>fv-footer#FVRG}}

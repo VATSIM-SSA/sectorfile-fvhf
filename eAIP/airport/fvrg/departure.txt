@@ -1,0 +1,21 @@
+===== FVRG Departure =====
+
+  * FVRG doesn't have a dedicated Departure Position, with Harare Approach (FVRG APP) assuming the role of Departure.
+
+
+==== Departure Procedures ====
+
+  * After departure, maintain aircraft on runway heading. You may issue further climb instructions (usually FL150).
+  * If necessary, vector aircraft right (runway 05 departures) or left (runway 23 departures)
+  * Be aware of High Terrain (MSA of 10900 ft) SE of the field.
+
+
+==== Noise Abatement Procedures ====
+
+
+==== Coordinating FVRG & FVCP Departures ====
+
+  * Be aware of the proximity of [[FVCP]] NW of the field.
+
+
+{{page>fv-footer#FVRG}}

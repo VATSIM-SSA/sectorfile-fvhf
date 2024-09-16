@@ -1,0 +1,49 @@
+===== FVFA Approach =====
+
+==== Arrivals Procedures ====
+
+  * FVFA does not have any published arrivals. Pilots should be advised to level at 5000 ft for the ILS to runway 05 (preferred landing runway).
+
+
+
+=== Approach Procedures ===
+
+^ Rwy   ^ Approach          ^ Frequency     ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
+| 12    | ILS DME           | 110.70 IFA    | 118º | 3.00º | 7.7 DME IFA | 5000 ft | - | 
+| :::   | VOR DME           | -             | 118º | 3.00º | -           | 5000 ft | - |
+| 30    | VOR DME           | -             | 297º | 3.00º | -           | 5000 ft | - |
+
+
+==== Holds ====
+
+^ Name  ^ STAR  ^ Altitude          ^ Speed (IAS)   ^ Inbound CRS ^ Turn ^ Leg Time ^ Remarks ^
+| VFA   | -     | 5000 ft to FL090  | 230 KT        | 118º | Right | 1 min | Rwy 12 |
+| :::   | -     | 5000 ft to FL090  | 230 KT        | 297º | Left  | 1 min | Rwy 30 |
+| MT    | -     | 5000 ft to FL140  | 230 KT        | 350º | Right | 1 min | - |
+
+
+==== Missed Approach Procedures ====
+
+^ Rwy   ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 12    | ILS DME    | Climb on Runway Heading 118º to D5 VFA to 5000 ft, then turn RIGHT direct to the VFA VOR and hold | VFA VOR | - |
+| :::   | VOR DME    | ::: | ::: | ::: |
+| 30    | VOR DME    | Climb on Runway Heading 297º to D6 VFA to 5000 ft, then turn LEFT direct to the VFA VOR and hold | VFA VOR | - |
+
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| VFA    | 0 nm  | 25 nm | 360º | 090º | 4900 ft | - |
+| :::    | :::   | :::   | 090º | 360º | 4700 ft | - |
+
+
+==== Diversions ====
+
+^ ICAO ^ Name                                       ^ Distance  ^ Longest Rwy ^ Remarks ^ 
+| FLHN | Harry Mwaanga Nkumbula  Intl (Livingstone, Zambia)     | 22 nm     | 2987 m | - |
+| FBKE | Kasane Intl (Kasane, Botswana)     | 51 nm     | 3000 m | - |
+| FVWN | Hwange National Park (Hwange National Park, Zimbabwe)     | 88 nm     | 4600 m | - |
+| FVJN | J. M. Nkomo (Bulawayo, Zimbabwe)               | 204 nm    | 2588 m | - |
+
+
+{{page>fv-footer#FVFA}}

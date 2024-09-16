@@ -1,0 +1,13 @@
+===== FVHF Harare Flight Information Region =====
+
+  * The Kano FIR covers the entirety of [[country:zimbabwe:home|Zimbabwe]]'s borders. It is neighbored by [[airspace:fasa:home|Johannesburg, South Africa]] FIR in the South, [[airspace:fbgr:home|Gaborone]] and a tip of [[airspace:fywf:home|Windhoewk]] in the West, [[airspace:flfi:home|Lusaka]] in the North and [[airspace:fqbe:home|Beira]] in the East.
+
+==== Airport Coverage ====
+
+Harare FIR covers the following airports:
+
+=== Zimbabwe ===
+
+{{page>country:zimbabwe:airports#Zimbabwe Airports}}
+
+{{page>fv-footer#FVHF}}

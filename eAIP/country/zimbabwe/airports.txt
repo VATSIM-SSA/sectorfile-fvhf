@@ -1,0 +1,16 @@
+===== Zimbabwe Airports =====
+
+^ ICAO      ^ Name                      ^ City          ^ Status            ^ Remarks ^
+| [[airport:fvwt:home|FVWT]]  | Hwange Town               | Hwange        | //Not Available// | - |
+| [[airport:fvwn:home|FVWN]]  | Hwange National Park      | Hwange        | //Not Available// | - |
+| [[airport:fvrg:home|FVRG]]  | Robert Gabriel Mugabe Intl | Harare       | - | - |
+| [[airport:fvmv:home|FVMV]]  | Masvingo Intl             | Masvingo      | //Not Available// | - |
+| [[airport:fvkb:home|FVKB]]  | Kariba Intl               | Kariba        | //Not Available// | - |
+| [[airport:fvjn:home|FVJN]]  | J M NKomo                 | Bulawayo      | //Not Available// | - |
+| [[airport:fvgm:home|FVGM]]  | Mhangura                  | -             | //Not Available// | - |
+| [[airport:fvfa:home|FVFA]]  | Victoria Falls            | Victoria Falls | - | - |
+| [[airport:fvcz:home|FVCZ]]  | Buffalo Range             | Chiredzi      | //Not Available// | - |
+| [[airport:fvcp:home|FVCP]]  | Charles Prince            | Harare        | //Not Available// | - |
+
+
+{{page>fv-footer#Zimbabwe}}

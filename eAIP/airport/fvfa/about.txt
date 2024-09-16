@@ -1,0 +1,51 @@
+===== FVFA Information =====
+
+**Victoria Falls Airport** is an international airport serving the Victoria Falls tourism industry, and is 18 kilometres (11 mi) south of the town of Victoria Falls, [[Zimbabwe]].
+
+More information available at [[https://en.wikipedia.org/wiki/Victoria_Falls_Airport|Wikipedia]].
+
+
+==== Aerodrome Data ====
+
+| ICAO                  | FVFA |
+| IATA                  | VFA |
+| Elevation             | 3500 ft |
+| Transition Altitude   | 6500 ft |
+| Transition Level      | FL70 |
+| Mag Variation         | 08º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Victoria_Falls_Airport&params=18_05_45_S_25_50_20_E_type:airport]] |
+| Site | - |
+
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 12 | 118º | 4000 | 4000 | 4060 | 4300 | - |
+| 30 | 297º | 4000 | 4000 | 4060 | 4300 | - |
+
+
+==== Aprons ====
+^ Apron     ^ Code ^ Stands              ^ Entry / Exit  ^ Remarks ^
+| GA Apron | - | -  | Twy C1         | - |
+| Cat C Apron | - | 21-25  | Twys C1/C2        | - |
+| Cat C, D, E Apron | - | 26-28  | Twy C2        | - |
+
+==== Positions & Frequencies ====
+
+^ Position  ^ Callsign          ^ Frequency ^ Remarks ^
+| FVFA_ATIS | Falls ATIS        | 127.500   | - |
+| FVFA_TWR  | Falls Tower       | 121.100   | //Replaced by FVFA_APP on VATSIM// |
+| FVFA_APP  | Falls Approach    | 121.100   | //Procedural Tower/Approach// |
+| FVHF_CTR  | Harare Control     | 131.500   | - |
+
+
+==== Airspace ====
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Victoria Falls CTR   | D     | FVFA_APP  | GND - A045    | - |
+| Victoria Falls TMA   | D     | FVFA_APP  | A045 - FL245  | - |
+| Victoria Falls TMA   | A     | FVFA_APP  | FL145 - FL245  | - |
+| Harare FIR/UIR       | A     | FVHF_CTR  | FL245 - UNL    | - |
+
+
+{{page>fv-footer#FVFA}}

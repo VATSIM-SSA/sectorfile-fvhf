@@ -1,0 +1,17 @@
+===== FVFA Departure =====
+
+  * FVFA doesn't have a dedicated Departure Position, with Falls Approach (FVFA APP) assuming the role of Departure.
+
+
+==== Departure Procedures ====
+
+  * After departure, maintain aircraft on runway heading. You may issue further climb instructions (usually FL150).
+  * If necessary, vector aircraft right (runway 12 departures) or left (runway 30 departures).
+  * Be aware that the airspace North of the field is [[airspace:flfi:home|FLFI]] FIR, the airspace West of the field is [[airport:fywf:home|FYWF]] FIR and the airspace South of the field is [[airspace:fbgr:home|FBGR]] FIR.
+
+
+==== Noise Abatement Procedures ====
+
+
+
+{{page>fv-footer#FVFA}}

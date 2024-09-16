@@ -1,0 +1,26 @@
+===== FVHF Harare Airspace Rules =====
+
+==== Separation ====
+
+  * Lateral Separation of 100 NM
+  * Longitudinal Separation of 20 Mins or 10 Mins if routes are RNP10 approved.
+
+=== Vertical Separation ===
+
+  * FVHF Harare/Zimbabwe does not apply RVSM airspace separation so ICAO standards are applicable.
+
+
+
+==== SELCAL ====
+
+  * FVHF Harare does NOT offer SELCAL capabilities.
+
+==== SLOP ====
+
+  * The use of SLOP at FVHF Harare is NOT approved.
+
+==== VFR Rules ====
+
+
+
+{{page>fv-footer#FVHF}}

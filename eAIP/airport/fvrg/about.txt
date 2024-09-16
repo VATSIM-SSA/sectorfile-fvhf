@@ -1,0 +1,56 @@
+===== FVRG Information =====
+
+Robert Gabriel Mugabe International Airport known colloquially as "RGM", or Mugabe Airport) formerly known as the Harare International Airport, is an international airport in Harare, [[Zimbabwe]]. It is the largest airport in the country and serves as the base of Air Zimbabwe. The airport is operated by the Civil Aviation Authority of Zimbabwe. It was originally built as Salisbury Airport. 
+
+More information available at [[https://en.wikipedia.org/wiki/Robert_Gabriel_Mugabe_International_Airport]].
+
+
+==== Aerodrome Data ====
+
+| ICAO                  | FVRG |
+| IATA                  | HRE |
+| Elevation             | 4887ft |
+| Transition Altitude   | 8000ft |
+| Transition Level      | FL80 |
+| Mag Variation         | 08º NW |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Robert_Gabriel_Mugabe_International_Airport&params=17_55_54.5_S_31_05_34.25_E_type:airport|17°55′54.5″S 31°05′34.25″E]] |
+| Site | [[http://caaz.co.zw/]] |
+
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 05 | 052º | 4725 | 4785 | 5025 | 4725 | - |
+| 23 | 232º | - | - | - | 4725 | - |
+
+=== Intersection Departure Distances ===
+
+^ Runway ^ Intersection ^ TODA ^ Remarks ^
+| 05 | H | 3595 m | - |
+| 23 | M | 3595 m | - |
+
+
+==== Aprons ====
+^ Apron     ^ Code ^ Stands              ^ Entry / Exit  ^ Remarks ^
+| Domestic   | - | 1 - 11  | Twys E, F & M         | - |
+| International | - | 1 - 6  | Twy P        | - |
+
+==== Positions & Frequencies ====
+
+^ Position  ^ Callsign          ^ Frequency ^ Remarks ^
+| FVRG_ATIS | Harare ATIS | 126.200   | //Real World Frequency of 113.100 not available on VATSIM// |
+| FVRG_GND | Harare Ground | 127.300   | - |
+| FVRG_TWR | Harare Tower | 118.100   | - |
+| FVRG_APP | Harare Approach | 119.100   | - |
+| FVHF_CTR | Harare East Control | 131.500   | - |
+
+==== Airspace ====
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Harare CTR   | C     | FVRG_TWR | GND - A065    | - |
+| Harare TMA   | C     | FVRG_APP | A065 - FL245  | - |
+| Harare TMA   | C     | FVRG_APP | FL155 - FL245  | - |
+| Harare FIR/UIR     | A     | FVHF_CTR | FL245 - UNL    | - |
+
+
+{{page>fv-footer#FVRG}}

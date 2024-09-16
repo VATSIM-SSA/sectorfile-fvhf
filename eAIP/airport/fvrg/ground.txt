@@ -1,0 +1,42 @@
+===== FVRG Ground =====
+
+==== Push-back Procedures ====
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Pushback Approved}}
+
+
+=== Directions ===
+
+^ Apron     ^ Type              ^ Facing ^ Remarks ^
+| Domestic   | All  | South-East | - |
+| International | All | ::: | - |
+
+==== Taxi Out Procedures ===
+
+  * When runway 05 is active, departing traffic shall be instructed to taxi to the runway via D, C, B and A and hold short runway 05 at A.
+
+  * When runway 23 is active, departing traffic shall be instructed to taxi to the runway via E, F and hold short runway 23 at G. Intersection Departures from M or L are possible.
+  * If departing from the SE Apron, traffic is able to depart from intersections X (runway 05) or Z (runway 30).
+
+  * Be aware that some sceneries might not have taxiway A available. Please confirm with pilots. If not available, allow pilots to backtrack the runway from any available taxiway.
+
+
+
+=== Phraseology ==
+
+{{page>phraseology-icao#Taxi to HP}}
+
+==== Taxi In Procedures ====
+
+  * In low traffic situations, Tower Controllers are expected to hand over arrival traffic to Ground Controllers once the traffic has vacated the runway. 
+
+  * In high traffic situations, in order to maintain the high speed exits clear of traffic, Tower Controllers may issue an initial taxi instruction to arrival traffic before handover to Ground Controllers.
+
+=== Phraseology ==
+
+{{page>phraseology-icao#Taxi to Stand}}
+
+
+{{page>fv-footer#FVRG}}

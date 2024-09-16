@@ -1,0 +1,10 @@
+===== Zimbabwe Information =====
+
+Zimbabwe, officially the Republic of Zimbabwe, is a landlocked country located in Southeast Africa, between the Zambezi and Limpopo Rivers, bordered by [[country:south-africa:home|South Africa]] to the south, [[country:botswana:home|Botswana]] to the south-west, [[country:zambia:home|Zambia]] to the north, and [[country:mozambique:home|Mozambique]] to the east. The capital and largest city is Harare. The second largest city is Bulawayo. A country of roughly 15 million people, Zimbabwe has 16 official languages, with English, Shona, and Ndebele the most common. 
+
+Beginning in the 9th century, during its late Iron Age, the Bantu people (who would become the ethnic Shona) built the city-state of Great Zimbabwe which became one of the major African trade centres by the 11th century, controlling the gold, ivory and copper trades with the Swahili coast, which were connected to Arab and Indian states. By the mid 15th century, the city-state had been abandoned. From there, the Kingdom of Zimbabwe was established, followed by the Rozvi and Mutapa empires. 
+
+For more information, visit [[https://en.wikipedia.org/wiki/Zimbabwe|Wikipedia]].
+
+
+{{page>fv-footer#Zimbabwe}}
