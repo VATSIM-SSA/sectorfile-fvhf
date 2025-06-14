@@ -1,6 +1,8 @@
 {
-	"Name": "FVHF Harare FIR v2",
-	"Composites": [
+	"Name": "FVHF Harare FIR v3",
+	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fvhf/refs/heads/main/vATIS/FVHF.json",
+	"updateSerial": 2025061201,
+	"stations": [
 		{
 			"Name": "Victoria Falls",
 			"Identifier": "FVFA",
